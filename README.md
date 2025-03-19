@@ -53,6 +53,7 @@ If you do not wish to import and want only the scripts they are available in Myp
 
 NOTE:
 
+ 	- If you do not wish to import the project and want only the Script files they are available in script folder
 	- Replacing the ChromeDriver path and path where screenshots need to be saved ,in 'intervue.java'class file is the only change needed to be done in the program.
 	- For some reason the search option after loging in companies section is glitching/bug meaning sometimes it is not responsive even on manual clicks the program does take a screenshot ,but if this issue occurs please rerun the program couple of times it will work fine i have added the output video as well.
 
