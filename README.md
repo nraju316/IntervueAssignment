@@ -33,6 +33,7 @@ Setting up chromedriver  - basically only the path to the chromedriver should be
 
 If you do not wish to import the project and want only the scripts they are available in Script folder
 
+Screenrecording of the working automation flow is provided in Output.mp4
 
 
   Steps : 
