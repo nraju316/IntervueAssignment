@@ -27,15 +27,17 @@ Setting up chromedriver  - basically only the path to the chromedriver should be
 
 If you do not wish to import and want only the scripts they are available in Myproject001->src -> Two jave files, one is used to store credential as it is not hardcoded another intervue.java the main file
 
-{
+
+
+
   Steps : 
   1.Download EcpliseIDE,Selenium ChromeDriver and Selenium WebDriver java and extract if necessary
   
   2.Download Myproject001.rar from github and extract it  
-          Can follow my uploaded video in github video names
+        you can follow my uploaded video in github video names
               ->Creating_And_importing_the_Project.mp4
               ->AddingSeleniumJarfiles_And_AddingSeleniumChromeDriver_Path.mp4
-  {
+  
         3.In ecplise create a new project with the name Myproject001 ,rightclick on project name and import the Myproject001 file downloaded from github
 	
         4.Once import is done again right click on project name ,go to properties,selet java build path, then select libraries
@@ -43,8 +45,8 @@ If you do not wish to import and want only the scripts they are available in Myp
 	5.In libraries click on classpath and select Add external jars and select all the extracted WebDriver files , Apply and close
         
 	6.In the script intervue.java(located in Myproject001->src).In System.setProperty("webdriver.chrome.driver", "E:\\chromedriver-win64\\chromedriver.exe"); replace the chromedriver path with the path where you                 extracted the chromedriver in the end add the file name (chromedriver.exe)     
-  }
-  }
+  
+  
 
 
 NOTE:
