@@ -31,6 +31,8 @@ If you do not wish to import and want only the scripts they are available in Myp
 
 
   Steps : 
+
+  
   1.Download EcpliseIDE,Selenium ChromeDriver and Selenium WebDriver java and extract if necessary
   
   2.Download Myproject001.rar from github and extract it  
@@ -52,5 +54,5 @@ If you do not wish to import and want only the scripts they are available in Myp
 NOTE:
 
 	- Replacing the ChromeDriver path and path where screenshots need to be saved ,in 'intervue.java'class file is the only change needed to be done in the program.
-      - For some reason the search option after loging in companies section is glitching/bug meaning sometimes it is not responsive even on manual clicks the program does take a screenshot ,but if this issue occurs please rerun the program couple of times it will work fine i have added the output video as well.
+	- For some reason the search option after loging in companies section is glitching/bug meaning sometimes it is not responsive even on manual clicks the program does take a screenshot ,but if this issue occurs please rerun the program couple of times it will work fine i have added the output video as well.
 
