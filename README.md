@@ -27,6 +27,7 @@ Setting up chromedriver  - basically only the path to the chromedriver should be
 
 If you do not wish to import and want only the scripts they are available in Myproject001->src -> Two jave files, one is used to store credential as it is not hardcoded another intervue.java the main file
 
+{
   Steps : 
   1.Download EcpliseIDE,Selenium ChromeDriver and Selenium WebDriver java and extract if necessary
   
@@ -41,8 +42,8 @@ If you do not wish to import and want only the scripts they are available in Myp
         
 	5.In libraries click on classpath and select Add external jars and select all the extracted WebDriver files , Apply and close
         
-	6.In the script intervue.java(located in Myproject001->src).In System.setProperty("webdriver.chrome.driver", "E:\\chromedriver-win64\\chromedriver.exe"); replace the chromedriver path with the path where you                 extracted the chromedriver in the end add the file name (chromedriver.exe)
-        
+	6.In the script intervue.java(located in Myproject001->src).In System.setProperty("webdriver.chrome.driver", "E:\\chromedriver-win64\\chromedriver.exe"); replace the chromedriver path with the path where you                 extracted the chromedriver in the end add the file name (chromedriver.exe)     
+  }
   }
 
 
